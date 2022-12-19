@@ -1,0 +1,19 @@
+{
+    "name": "commandstring/env",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CommandString\\Env\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CommandString",
+            "email": "bmxmikey2@gmail.com"
+        }
+    ],
+    "require": {
+        "commandstring/utils": "^1.1"
+    }
+}

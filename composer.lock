@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "83db05abd1dd1199c42f8a3c9d858eef",
+    "packages": [
+        {
+            "name": "commandstring/utils",
+            "version": "v1.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CommandString/Utils.git",
+                "reference": "50fb7f3933e5fe504ce0d431b1d3a5d4c0e333d6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CommandString/Utils/zipball/50fb7f3933e5fe504ce0d431b1d3a5d4c0e333d6",
+                "reference": "50fb7f3933e5fe504ce0d431b1d3a5d4c0e333d6",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "CommandString\\Utils\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "support": {
+                "issues": "https://github.com/CommandString/Utils/issues",
+                "source": "https://github.com/CommandString/Utils/tree/v1.2.1"
+            },
+            "time": "2022-12-19T17:04:06+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
