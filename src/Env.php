@@ -92,7 +92,7 @@ class Env {
     }
 
     /**
-     * @return self
+     * @return mixed
      */
     public static function get(string $property = ""): mixed
     {
